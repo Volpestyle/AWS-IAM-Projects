@@ -4,4 +4,4 @@ An empty repository which exists to provide context around my work at Amazon Web
 ## AWS IAM Console
 Utilized AWS's Internal UI framework 'Polaris' along with the AWS IAM APIs to implement a specified UX mock for managing IAM entities such as Users. [demo](https://drive.google.com/file/d/1BNKPGXYAASANI5sNNY7UIebjXBa3zVtN/view?usp=share_link)
 
-![The user details page](https://i.imgur.com/c040Gm7.png)
+![The user details page](<Screen Shot 2023-01-25 at 2.57.02 PM.png>)
